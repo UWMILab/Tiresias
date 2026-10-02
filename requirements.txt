@@ -1,0 +1,14 @@
+accelerate==1.12.0
+transformers==4.57.5
+safetensors==0.7.0
+numpy==1.26.4
+Pillow==11.3.0
+einops==0.8.2
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
+tqdm==4.67.3
+huggingface-hub==0.36.2
+peft==0.19.1
+ftfy==6.3.1
+sentencepiece==0.2.1
+protobuf==7.34.1

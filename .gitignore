@@ -1,0 +1,7 @@
+__pycache__/
+outputs/
+pretrained_models/
+weights/
+
+data/*
+!data/README.md
