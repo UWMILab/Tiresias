@@ -8,7 +8,7 @@ based on world-model evidence.
 ## Installation
 
 ```bash
-git clone https://github.com/F1y1113/Tiresias.git
+git clone https://github.com/UWMILab/Tiresias.git
 cd Tiresias
 conda env create -f environment.yml
 conda activate tiresias
