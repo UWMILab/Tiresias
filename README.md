@@ -11,15 +11,12 @@
   Bohan Xiong<sup>1</sup>, <br>
   Qi Dai<sup>3</sup>,
   Alexander G. Hauptmann<sup>4</sup>,
-  Zhi-Qi Cheng<sup>1,✉</sup>
+  Zhi-Qi Cheng<sup>1,†</sup>
   <br><br>
   <sup>1</sup>University of Washington,
   <sup>2</sup>National University of Singapore, <br>
   <sup>3</sup>Microsoft Research,
   <sup>4</sup>Carnegie Mellon University
-  <br><br>
-  <sup>*</sup>Equal contribution.
-  <sup>✉</sup>Corresponding author.
 </p>
 
 <p align="center">
