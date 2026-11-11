@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>🔮 Tiresias: Towards Language-Conditioned World Models</strong>
+  <strong> Tiresias: Towards Language-Conditioned World Models</strong>
 </h1>
 
 <p align="center">
