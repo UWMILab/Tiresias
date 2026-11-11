@@ -22,6 +22,14 @@
   <sup>✉</sup>Corresponding author.
 </p>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2611.10392v1">
+    <img src="https://img.shields.io/badge/ArXiv-2611.10392-red" alt="arXiv: 2611.10392">
+  </a>
+  <img src="https://img.shields.io/badge/Project-Coming_soon-blue" alt="Project page: coming soon">
+  <img src="https://img.shields.io/badge/Hugging_Face-Coming_soon-yellow?logo=huggingface&amp;logoColor=white" alt="Hugging Face: coming soon">
+</p>
+
 Tiresias is a language-conditioned planning and world-modeling system for
 navigation, driving, 3D gaming, and robot manipulation. It generates 128 action
 candidates, retains eight using a Trajectory Ranker, and selects the final plan
