@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/badge/Hugging_Face-Coming_soon-yellow?logo=huggingface&amp;logoColor=white" alt="Hugging Face: coming soon">
 </p>
 
+<p align="center">
+  <a href="highlight.png">
+    <img src="highlight.png" alt="Overview of LCWM, LCWM-Bench, and Tiresias" width="100%">
+  </a>
+</p>
+
 Tiresias is a language-conditioned planning and world-modeling system for
 navigation, driving, 3D gaming, and robot manipulation. It generates 128 action
 candidates, retains eight using a Trajectory Ranker, and selects the final plan
@@ -248,3 +254,4 @@ input_wm.jsonl            # Metadata for the final world-model rollout
 input_language.pt         # Cached instruction embeddings
 input_frames/             # Canonically named context frames
 ```
+
